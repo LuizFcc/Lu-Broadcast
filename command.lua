@@ -11,7 +11,6 @@ core.register_chatcommand("broadcast", {
       -- If there's no text, throw a error
       if not param or param == nil or param == "" then
         core.chat_send_player(name, red .. S("[ERROR] ") .. S("Please provide a text!"))
-        return true, "No string was found!"
       end
       
       -- If no player, then assume it as server
