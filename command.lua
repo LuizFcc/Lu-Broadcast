@@ -15,4 +15,5 @@ core.register_chatcommand("broadcast", {
         -- If the player exists, show the player name
         core.chat_send_all(red .. S("[Broadcast from ") .. name .. "] " .. reset .. param)
     end
+  end
 })
