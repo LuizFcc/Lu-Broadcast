@@ -11,6 +11,7 @@ core.register_chatcommand("broadcast", {
       -- If there's no text, throw a error
       if not param or param == nil or param == "" then
         core.chat_send_player(name, red .. S("[ERROR] ") .. S("Please provide a text!"))
+        return true
       end
       
       -- If no player, then assume it as server
@@ -34,6 +35,7 @@ core.register_chatcommand("breadcast", {
       -- If there's no text, throw a error
       if not param or param == nil or param == "" then
         core.chat_send_player(name, red .. S("[ERROR] ") .. S("Please provide a text!"))
+        return true
       end
       
       -- If no player, then assume it as server
@@ -57,6 +59,7 @@ core.register_chatcommand("broodcast", {
       -- If there's no text, throw a error
       if not param or param == nil or param == "" then
         core.chat_send_player(name, red .. S("[ERROR] ") .. S("Please provide a text!"))
+        return true
       end
       
       -- If no player, then assume it as server
@@ -80,6 +83,7 @@ core.register_chatcommand("bcast", {
       -- If there's no text, throw a error
       if not param or param == nil or param == "" then
         core.chat_send_player(name, red .. S("[ERROR] ") .. S("Please provide a text!"))
+        return true
       end
       
       -- If no player, then assume it as server
@@ -103,6 +107,7 @@ core.register_chatcommand("announce", {
       -- If there's no text, throw a error
       if not param or param == nil or param == "" then
         core.chat_send_player(name, red .. S("[ERROR] ") .. S("Please provide a text!"))
+        return true
       end
       
       -- If no player, then assume it as server
@@ -126,6 +131,7 @@ core.register_chatcommand("anunciar", {
       -- If there's no text, throw a error
       if not param or param == nil or param == "" then
         core.chat_send_player(name, red .. S("[ERROR] ") .. S("Please provide a text!"))
+        return true
       end
       
       -- If no player, then assume it as server
