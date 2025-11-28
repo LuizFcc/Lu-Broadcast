@@ -25,7 +25,7 @@ msgstr ""
 msgid "[Server Broadcast] "
 msgstr ""
 
-#: command.lua:16 command.lua:22
+#: command.lua:22
 msgid "[Broadcast from "
 msgstr ""
 
