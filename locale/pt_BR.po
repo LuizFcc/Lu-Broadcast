@@ -1,7 +1,7 @@
 # Portuguese translations for Lu-Broadcast package.
 # Copyright (C) 2025 LuizFcc
 # This file is distributed under the same license as the Lu-Broadcast package.
-# LuizFcc <LuizFcc@outlook.com.br>, 2025.
+#  <LuizFcc@outlook.com.br>, 2025.
 #
 msgid ""
 msgstr ""
@@ -19,16 +19,16 @@ msgstr ""
 
 #: command.lua:5
 msgid "Sends a global message for everyone in the server."
-msgstr "Envia uma mensagem global para todo mundo no servidor."
+msgstr ""
 
 #: command.lua:13
 msgid "[Server Broadcast] "
-msgstr "[Broadcast do Servidor] "
+msgstr ""
 
 #: command.lua:16
 msgid "[Broadcast from "
-msgstr "[Broadcast de "
+msgstr ""
 
 #: privilege.lua:3
 msgid "Anyone with this privilege will be able to execute /broadcast!"
-msgstr "Qualquer um com esse privilégio poderá executar /broadcast!"
+msgstr ""
