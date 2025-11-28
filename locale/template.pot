@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-28 13:10+0000\n"
+"POT-Creation-Date: 2025-11-28 15:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,14 +21,22 @@ msgstr ""
 msgid "Sends a global message for everyone in the server."
 msgstr ""
 
-#: command.lua:13 command.lua:13
+#: command.lua:13 command.lua:19
 msgid "[Server Broadcast] "
 msgstr ""
 
-#: command.lua:16 command.lua:16
+#: command.lua:16 command.lua:22
 msgid "[Broadcast from "
 msgstr ""
 
 #: privilege.lua:3 privilege.lua:3
 msgid "Anyone with this privilege will be able to execute /broadcast!"
+msgstr ""
+
+#: command.lua:13
+msgid "[ERROR] "
+msgstr ""
+
+#: command.lua:13
+msgid "Please provide a text!"
 msgstr ""
