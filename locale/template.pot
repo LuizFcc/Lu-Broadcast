@@ -21,7 +21,7 @@ msgstr ""
 msgid "Sends a global message for everyone in the server."
 msgstr ""
 
-#: command.lua:13 command.lua:19
+#: command.lua:19
 msgid "[Server Broadcast] "
 msgstr ""
 
