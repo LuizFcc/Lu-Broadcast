@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lu-Broadcast 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-28 16:24+0000\n"
+"POT-Creation-Date: 2025-11-28 15:13+0000\n"
 "PO-Revision-Date: 2025-11-28 12:44-0300\n"
 "Last-Translator:  <LuizFcc@outlook.com.br>\n"
 "Language-Team: Brazilian Portuguese\n"
@@ -17,18 +17,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: command.lua:5 command.lua:28 command.lua:51 command.lua:74 command.lua:97
-#: command.lua:120
+#: command.lua:5
 msgid "Sends a global message for everyone in the server."
 msgstr "Envia uma mensagem global para todo o servidor."
 
-#: command.lua:19 command.lua:18 command.lua:41 command.lua:64 command.lua:87
-#: command.lua:110 command.lua:133
+#: command.lua:19
 msgid "[Server Broadcast] "
 msgstr "[Broadcast do Servidor] "
 
-#: command.lua:22 command.lua:21 command.lua:44 command.lua:67 command.lua:90
-#: command.lua:113 command.lua:136
+#: command.lua:22
 msgid "[Broadcast from "
 msgstr "[Broadcast de "
 
@@ -36,12 +33,10 @@ msgstr "[Broadcast de "
 msgid "Anyone with this privilege will be able to execute /broadcast!"
 msgstr "Qualquer um com esse privilégio poderá executar /broadcast!"
 
-#: command.lua:13 command.lua:36 command.lua:59 command.lua:82 command.lua:105
-#: command.lua:128
+#: command.lua:13
 msgid "[ERROR] "
 msgstr "[ERRO] "
 
-#: command.lua:13 command.lua:36 command.lua:59 command.lua:82 command.lua:105
-#: command.lua:128
+#: command.lua:13
 msgid "Please provide a text!"
 msgstr "Por favor coloque um texto!"
