@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: command.lua:5 command.lua:5
+#: command.lua:5
 msgid "Sends a global message for everyone in the server."
 msgstr ""
 
@@ -29,7 +29,7 @@ msgstr ""
 msgid "[Broadcast from "
 msgstr ""
 
-#: privilege.lua:3 privilege.lua:3
+#: privilege.lua:3
 msgid "Anyone with this privilege will be able to execute /broadcast!"
 msgstr ""
 
