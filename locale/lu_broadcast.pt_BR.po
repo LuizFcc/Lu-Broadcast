@@ -39,4 +39,4 @@ msgstr "[ERRO] "
 
 #: command.lua:13
 msgid "Please provide a text!"
-msgstr "Por favor coloque um texto"
+msgstr "Por favor coloque um texto!"
