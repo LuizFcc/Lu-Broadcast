@@ -1,3 +1,5 @@
+local S = core.get_translator("lu_broadcast")
+
 core.register_chatcommand("broadcast", {
     params = "<text>",
     description = S("Sends a global message for everyone in the server."),
