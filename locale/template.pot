@@ -29,7 +29,7 @@ msgstr ""
 msgid "[Broadcast from "
 msgstr ""
 
-#: privilege.lua:3
+#: privilege.lua:5
 msgid "Anyone with this privilege will be able to execute /broadcast!"
 msgstr ""
 
