@@ -8,6 +8,11 @@ core.register_chatcommand("broadcast", {
       local red = core.get_color_escape_sequence("#f44336")
       local reset = core.get_color_escape_sequence("#ffffff")
       
+      -- If no text is typed, then throw a error
+      if not param or param == nil then
+        core.chat_send_player(name, red .. S("[ERROR] ") .. reset .. S("Please provide a text!"))
+      end
+      
       -- If no player, then assume it as server
       if not name or name == nil then
         core.chat_send_all(red .. S("[Server Broadcast] ") .. reset .. param)
